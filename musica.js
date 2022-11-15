@@ -1,0 +1,1 @@
+let escalaC = ['do', 're', 'mi', 'fa', 'sol', 'la', 'si'];
