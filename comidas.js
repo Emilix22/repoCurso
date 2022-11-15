@@ -1,0 +1,1 @@
+let platosCalientes = ['guiso', 'sopa'];
